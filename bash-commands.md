@@ -1,9 +1,3 @@
-## Keyboard Shortcuts
-- `Ctrl + U` : deletes left of the cursor.
-- `Ctrl + K` : delete right of the cursor.
-- `Ctrl + W` : delete word on the left.
-
-
 ## check result (0=success)
     echo $?
 
