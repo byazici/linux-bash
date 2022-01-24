@@ -45,4 +45,5 @@
   iostat
   top
 
-
+## see hosts file
+  cat /etc/hosts
