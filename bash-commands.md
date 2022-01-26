@@ -47,3 +47,26 @@
 
 ## see hosts file
   cat /etc/hosts
+
+## list processes sarts with postgres
+ps auxww | grep ^postgres
+
+## manage jobs
+
+### view jobs
+jobs
+
+### run jon in bg
+cp xyz *&*
+
+### Moving a foreground job to the background and stop
+^Z
+
+### resume bg process
+bg %1
+
+### Moving a background job to the foreground
+fg %1
+
+### Terminating job
+kill %1
