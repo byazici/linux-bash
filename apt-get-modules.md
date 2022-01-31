@@ -1,3 +1,6 @@
-* fzf
-* fdclone
-* ripgrep
+```fzf```
+
+```fdclone```
+
+```ripgrep```
+
